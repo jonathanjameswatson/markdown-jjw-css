@@ -2,6 +2,8 @@
     "name": "markdown-jjw-css",
     "displayName": "Markdown JJW CSS",
     "description": "Adds print CSS for Markdown based on the GitHub style",
+    "publisher": "jonathanjameswatson",
+    "repository": "https://github.com/jonathanjameswatson/markdown-jjw-css",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.61.0"
