@@ -313,6 +313,7 @@ pre {
 
 .vscode-body blockquote {
   margin: 0;
+  background: none;
 }
 
 .vscode-body ol,
@@ -824,7 +825,7 @@ pre {
 .vscode-body table td,
 .vscode-body table th {
   padding: 6px 13px;
-  border: 1px solid #dfe2e5;
+  border: 1px solid #dfe2e5 !important;
 }
 
 .vscode-body table tr {
@@ -856,6 +857,7 @@ pre {
   font-size: 85%;
   background-color: rgba(27,31,35,.05);
   border-radius: 3px;
+  color: #24292e !important;
 }
 
 .vscode-body pre {
