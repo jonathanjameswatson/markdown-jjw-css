@@ -8,6 +8,10 @@
   color: #4CA213 !important;
 }
 
+.katex {
+  font-size: 1em !important;
+}
+
 @media print {
   .vscode-body {
     margin-top: 1px;
