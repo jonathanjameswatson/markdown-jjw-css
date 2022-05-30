@@ -8,6 +8,10 @@
   color: #4CA213 !important;
 }
 
+.vscode-body .hljs-subst, .vscode-body .hljs-function, .vscode-body .hljs-title, .vscode-body .hljs-params, .vscode-body .hljs-formula {
+  color: #424242;
+}
+
 .katex {
   font-size: 1em !important;
 }
@@ -64,6 +68,7 @@ p {
 
 pre, pre > code {
   white-space: pre-wrap !important;
+  word-break: break-word !important;
 }
 
 .vscode-body .octicon {
