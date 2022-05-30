@@ -4,7 +4,7 @@
     "description": "Adds print CSS for Markdown based on the GitHub style",
     "publisher": "jonathanjameswatson",
     "repository": "https://github.com/jonathanjameswatson/markdown-jjw-css",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "engines": {
         "vscode": "^1.61.0"
     },
